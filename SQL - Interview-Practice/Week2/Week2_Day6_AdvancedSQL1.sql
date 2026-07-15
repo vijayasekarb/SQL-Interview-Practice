@@ -44,4 +44,3 @@ dept_minsal on dept_minsal. -depart i
 
 where extract(year from hire date) > 2016
 
-Scanned by CamScanner
