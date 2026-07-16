@@ -1,22 +1,14 @@
-# SQL Interview Preparation
+## Skills Covered
 
-This repository contains my SQL practice as part of my Cloud Data Testing preparation.
-
-## Topics Covered
-
-- SQL Joins
-- Aggregate Functions
-- Subqueries
+- Oracle SQL
+- ETL Testing
+- SQL Optimization
 - Window Functions
 - CTE
+- CASE
 - Views
-- CASE Statements
 - Performance SQL
 
-## Learning Journey
+## Goal
 
-### Week 1
-- SQL Fundamentals
-
-### Week 2
-- Advanced SQL
+Preparing for Senior Cloud Data Testing opportunities by strengthening SQL, ETL, Python, Databricks, and Azure skills.
