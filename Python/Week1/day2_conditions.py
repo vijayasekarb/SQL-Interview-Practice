@@ -14,7 +14,7 @@ else:
 
 a = 200002
 if a%2 == 0:
-    print('Éven')
+    print('Ã‰ven')
 else:
     print('odd')
 
